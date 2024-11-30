@@ -1,0 +1,11 @@
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\bin\Debug\BaiTap(30.11).exe.config
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\bin\Debug\BaiTap(30.11).exe
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\bin\Debug\BaiTap(30.11).pdb
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\obj\Debug\BaiTap(30.11).csproj.AssemblyReference.cache
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\obj\Debug\BaiTap_30._11_.Form1.resources
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\obj\Debug\BaiTap_30._11_.Properties.Resources.resources
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\obj\Debug\BaiTap(30.11).csproj.GenerateResource.cache
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\obj\Debug\BaiTap(30.11).csproj.CoreCompileInputs.cache
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\obj\Debug\BaiTap(30.11).exe
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\obj\Debug\BaiTap(30.11).pdb
+C:\VSC2022\Code C# LT\BaiTap(30.11)\BaiTap(30.11)\obj\Debug\BaiTap_30._11_.Form2.resources
